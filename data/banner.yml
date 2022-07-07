@@ -1,0 +1,24 @@
+####################### Banner #########################
+style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
+title : "The Uptown Appalachian"
+subtitle: |
+  The Uptown Appalachian is a cozy 3 bedroom home just over 3 miles from downtown boone and 7.5 miles from blowing rock.
+content : |
+  This house is central to downtown boone, blowing rock and just a hop skip and a jump from beech mountain and app ski mountain. The perfect home for your ski trip base camp, family tailgating base camp, or just a weekend getaway. Well furnished complete with hot tub and many other amenities. 
+buttons:
+  navigation:
+    - label: "Amenities"
+      link: "#amenities"
+    - label: "House"
+      link: "#house"
+    - label: "Photos"
+      link: "#photos"
+    - label: "Location"
+      link: "#location"
+    - label: "Contact"
+      link: "#contact"
+  secondary:
+    label : "Book Now"
+    link : "#first"
+image : "images/banner.jpg"
+

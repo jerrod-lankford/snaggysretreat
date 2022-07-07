@@ -1,0 +1,26 @@
+####################### Spotlight #########################
+style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
+title : "House Layout"
+id: "house"
+content: "Spacious three bedroom, two bathroom house off of the main road, accessible year round."
+lists:
+  - title: Basement
+    items:
+      - Bedroom with Bunk Beds (Full/Queen)
+      - Washer + Dryer
+      - Garage
+  - title: Main Floor
+    items:
+      - Bedroom with Queen Bed
+      - Open Kitchen
+      - One Bathroom
+      - Dining Room
+      - Living Room
+  - title: Top Floor
+    items:
+      - Master Suite with King Bed
+      - One Bathroom
+      - Desk/Chair for Work
+      - Private Balcony
+
+image: "images/spotlight02.jpg"

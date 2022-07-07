@@ -1,0 +1,74 @@
+title: "Location"
+style: "style2 medium lightbox onscroll-fade-in"
+id: "location"
+content: |
+  Amazingly convenient location. Less than 15 minutes away from all of the following attractions
+pictures:
+  - title: "Booneshine"
+    content: "Family friendly brewery with food, beer, and a great outdoor space."
+    image: "images/gallery/fulls/booneshine.jpg"
+    thumb: "images/gallery/thumbs/booneshine.jpg"
+    buttons:
+      - label: "Visit"
+        href: "https://www.booneshine.beer/"
+      - label: "Map"
+        href: "https://g.page/Booneshine?share"
+
+  - title: "Tweetsie Railroad"
+    content: "Family-oriented park with train rides, an amusement park, chair lift, petting zoo & live shows."
+    image: "images/gallery/fulls/tweetsie.jpg"
+    thumb: "images/gallery/thumbs/tweetsie.jpg"
+    buttons:
+      - label: "Visit"
+        href: "https://tweetsie.com/"
+      - label: "Map"
+        href: "https://g.page/TweetsieRR?share"
+  
+  - title: "Blowing Rock"
+    content: "Blowing Rock is a village in western North Carolina on scenic Blue Ridge Parkway. It’s named after The Blowing Rock, a formation with sweeping views of peaks, forests and the Johns River Gorge. "
+    image: "images/gallery/fulls/blowingrock.jpg"
+    thumb: "images/gallery/thumbs/blowingrock.jpg"
+    buttons:
+      - label: "Visit"
+        href: "https://blowingrock.com/"
+      - label: "Map"
+        href: "https://goo.gl/maps/uUawstdaRX9d7Fat8"
+
+  - title: "Hatchet Coffee"
+    content: "Local coffee roaster with a hip vibe."
+    image: "images/gallery/fulls/hatchet.jpg"
+    thumb: "images/gallery/thumbs/hatchet.jpg"
+    buttons:
+      - label: "Visit"
+        href: "https://hatchetcoffee.com/"
+      - label: "Map"
+        href: "https://g.page/hatchetcoffee?share"
+
+  - title: "Tot Lot"
+    content: "Family recreation site with 2 age-based playgrounds, ball fields & an indoor swimming pool."
+    image: "images/gallery/fulls/totlot.jpg"
+    thumb: "images/gallery/thumbs/totlot.jpg"
+    buttons:
+      - label: "Visit"
+        href: "http://wataugacounty.org/App_Pages/Dept/ParksRec/faq.aspx"
+      - label: "Map"
+        href: "https://goo.gl/maps/57aRy75JJXU1C4Le8"
+  
+  - title: "Downtown Boone"
+    content: "Historic downtown"
+    image: "images/gallery/fulls/boone.jpg"
+    thumb: "images/gallery/thumbs/boone.jpg"
+    buttons:
+      - label: "Visit"
+        href: "https://www.exploreboone.com/"
+      - label: "Map"
+        href: "https://goo.gl/maps/hYjs1mpoZxVqPytM8"
+
+  - title: "Appalachian State University"
+    image: "images/gallery/fulls/asu.jpg"
+    thumb: "images/gallery/thumbs/asu.jpg"
+    buttons:
+      - label: "Visit"
+        href: "https://www.appstate.edu/"
+      - label: "Map"
+        href: "https://goo.gl/maps/UUzXMoJq57XameJdA"
