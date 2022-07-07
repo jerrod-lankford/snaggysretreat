@@ -1,0 +1,23 @@
+<!-- Banner -->
+<section class="banner {{ .style }}">
+    <div class="content align-center">
+        {{ with .title }}<h1>{{ . }}</h1>{{ end }}
+        {{ with .subtitle }}<p class="major">{{ . | safeHTML }}</p>{{ end }}
+        {{ with .content }}<p>{{ . | safeHTML }}</p>{{ end }}
+        {{ with .buttons }}
+            <ul class="actions small">
+                {{ range .navigation }}
+                        <li><a href="{{ .link }}" class="button secondary small smooth-scroll-middle">{{ .label }}</a></li>
+                {{ end }}
+            </ul>
+            <div>
+                {{ with .secondary }}
+                    <a href="{{ .link }}" class="button primary large smooth-scroll-middle">{{ .label }}</a>
+                {{ end }}
+            </div>
+        {{ end }}
+    </div>
+    {{ with .image }}<div class="image">
+        <img src="{{.}}" alt="Uptown Appalachian" />
+    </div>{{end}}
+</section>

@@ -1,0 +1,24 @@
+<!-- Footer -->
+<footer class="wrapper style1 align-center" {{ with .id }} id="{{ . }}"{{ end }}>
+    <!-- Additional Elements -->
+    <div class="inner">
+        <div>
+            <header>
+                <h3 class="index align-center"> {{ .title }}</h3>
+            </header>
+        </div>
+        <div class="content">
+            {{ safeHTML .content }}
+        </div>
+        <div>
+            <ul class="icons" style="padding-top: 25px;">
+                {{ with .email }}<li><a target="_blank" href="mailto:{{.}}" class="fav icon style2 fa-envelope"><span class="label">Email</span></a></li>{{end}}
+                {{ with .facebook }}<li><a target="_blank" href="{{.}}" class="icon brands style2 fa-facebook-f"><span class="label">Facebook</span></a></li>{{end}}
+            </ul>
+            <h6>
+                Uptown Appalachian &copy; 2022 <span class="footerspacer icon fad fa-diamond"></span>
+                <a href="https://themes.gohugo.io/themes/hugo-story">Theme</a> by <a target="_blank" href="https://github.com/caressofsteel/">CaressOfSteel</a>
+            </h6>
+        </div>
+    </div>
+</footer>

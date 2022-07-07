@@ -1,0 +1,14 @@
+<article>
+    <a href="{{ .image }}" class="image">
+        <img src="{{ .thumb }}" alt="" />
+    </a>
+    <div class="caption">
+        <h3>{{ .title }}</h3>
+        <p>{{ .content }}</p>
+        <ul class="actions fixed">
+            {{ range .buttons }}
+                <li><a target="_blank" href="{{ .href }}" class="button small">{{ .label }}</a></li>
+            {{ end }}
+        </ul>
+    </div>
+</article>
