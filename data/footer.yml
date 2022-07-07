@@ -1,0 +1,7 @@
+####################### Footer #########################
+id: "contact"
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+title : "Contact"
+content: "For booking and information visit <a href=\"https://www.vacasa.com/usa/North-Carolina/Boone/\">Vacasa</a>. If you would like to contact the owner directly please use one of the social methods below."
+email: "jerrod.lankford@gmail.com"
+facebook: "https://www.facebook.com/UptownAppalachian"
