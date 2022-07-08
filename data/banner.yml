@@ -18,7 +18,7 @@ buttons:
     - label: "Contact"
       link: "#contact"
   secondary:
-    label : "Book Now"
-    link : "#first"
+    label : "Coming Soon!"
+    link : "#"
 image : "images/banner.jpg"
 
