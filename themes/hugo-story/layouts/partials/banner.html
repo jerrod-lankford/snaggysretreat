@@ -5,7 +5,7 @@
         {{ with .subtitle }}<p class="major">{{ . | safeHTML }}</p>{{ end }}
         {{ with .content }}<p>{{ . | safeHTML }}</p>{{ end }}
         {{ with .buttons }}
-            <ul class="actions small">
+            <ul class="actions small actions-container">
                 {{ range .navigation }}
                         <li><a href="{{ .link }}" class="button secondary small smooth-scroll-middle">{{ .label }}</a></li>
                 {{ end }}
