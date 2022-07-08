@@ -8,7 +8,6 @@
 /* Gallery (transitions) */
 
 	.gallery {
-
 		// Mixin.
 			@mixin transition-gallery($event) {
 				$x: null;
@@ -616,3 +615,19 @@
 	}
 
 	@include color-gallery;
+
+// Custom
+	@include breakpoint('<=small') {
+		.location-map {
+			width: 300px;
+			height: 175px;
+		}
+	}
+
+	@include breakpoint('>small') {
+		.location-map {
+			width: 500px;
+			height: 375px;
+		}
+	}
+	

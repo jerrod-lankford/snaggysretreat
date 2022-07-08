@@ -4,7 +4,7 @@ id: "location"
 content: |
   Amazingly convenient location, less than 10 minutes from downtown boone and close to parks, restaurants, breweries and more.
   <div>
-  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4018.8262483802996!2d-81.63577652412513!3d36.20643087155136!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8850fbb8eef0cd69%3A0x2443f2ac13eff6b8!2s132%20Dougherty%20Farm%20Ln%2C%20Boone%2C%20NC%2028607!5e0!3m2!1sen!2sus!4v1657246550596!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  <iframe class="location-map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4018.8262483802996!2d-81.63577652412513!3d36.20643087155136!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8850fbb8eef0cd69%3A0x2443f2ac13eff6b8!2s132%20Dougherty%20Farm%20Ln%2C%20Boone%2C%20NC%2028607!5e0!3m2!1sen!2sus!4v1657246550596!5m2!1sen!2sus" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
   </div>
 gallery_title: "Less than 15 minutes away from all of the following attractions"
 pictures:
