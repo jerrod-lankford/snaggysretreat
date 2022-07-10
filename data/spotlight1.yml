@@ -1,16 +1,16 @@
 ####################### Spotlight #########################
 style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
 id: "amenities"
-title : "Amenities"
+title: "Amenities"
 lists:
   - items:
-    - Linens Provided
-    - High Speed Wifi
-    - Fully stocked kitchen
-    - Large Decks
-    - Hot Tub
-    - 3 Smart TV's with Hulu/HBOMax/Netflix
-    - Books, Games, Puzzles and Movies
-    - Desk + Chair to enable working
-    - Kid friendly (Pack n Play, Booster Seat, Toys)
+      - Linens Provided
+      - High Speed Wifi
+      - Fully stocked kitchen
+      - Large Decks
+      - Hot Tub
+      - 3 Smart TV's with Hulu/HBOMax/Netflix/Amazon Prime
+      - Books, Games, Puzzles and Movies
+      - Desk + Chair to enable working
+      - Kid friendly (Pack n Play, High Chair, Toys)
 image: "images/spotlight01.jpg"

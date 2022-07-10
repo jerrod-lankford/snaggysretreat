@@ -2,7 +2,7 @@ title: "Photos"
 style: "style1 medium lightbox onscroll-fade-in"
 id: "photos"
 content: |
-  Newly renovated home with a wood burning fireplace and tons of upgrades!
+  Newly renovated fully furnished home with tons of upgrades!
 pictures:
   - image: "images/gallery/fulls/photo01.jpg"
     thumb: "images/gallery/thumbs/photo01.jpg"
