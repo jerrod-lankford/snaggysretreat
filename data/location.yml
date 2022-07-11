@@ -6,7 +6,7 @@ content: |
   <div>
   <iframe class="location-map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d32371.83895418719!2d-81.66719132490401!3d36.21222937670617!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8850fbb8eef0cd69%3A0x2443f2ac13eff6b8!2s132%20Dougherty%20Farm%20Ln%2C%20Boone%2C%20NC%2028607!5e0!3m2!1sen!2sus!4v1657248986826!5m2!1sen!2sus" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
   </div>
-gallery_title: "Less than 15 minutes away from all of the following attractions"
+gallery_title: "15 minutes or less from all of the following attractions"
 pictures:
   - title: "Booneshine"
     content: "Family friendly brewery with food, beer, and a great outdoor space."
@@ -27,6 +27,16 @@ pictures:
         href: "https://tweetsie.com/"
       - label: "Map"
         href: "https://g.page/TweetsieRR?share"
+
+  - title: "Appalachian Ski Mountain"
+    content: "Local ski center with a range of groomed slopes from black diamond to bunny, plus night skiing."
+    image: "images/gallery/fulls/appski.jpg"
+    thumb: "images/gallery/thumbs/appski.jpg"
+    buttons:
+      - label: "Visit"
+        href: "https://appskimtn.com/"
+      - label: "Map"
+        href: "https://goo.gl/maps/rmNkiYopfWKgomXw7"
   
   - title: "Blowing Rock"
     content: "Blowing Rock is a village in western North Carolina on scenic Blue Ridge Parkway. It’s named after The Blowing Rock, a formation with sweeping views of peaks, forests and the Johns River Gorge. "
