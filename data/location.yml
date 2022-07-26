@@ -67,7 +67,27 @@ pictures:
         href: "http://wataugacounty.org/App_Pages/Dept/ParksRec/faq.aspx"
       - label: "Map"
         href: "https://goo.gl/maps/57aRy75JJXU1C4Le8"
+
+  - title: "Appalachian State University"
+    content: "Kidd Brewer Stadium"
+    image: "images/gallery/fulls/stadium.jpg"
+    thumb: "images/gallery/thumbs/stadium.jpg"
+    buttons:
+      - label: "Visit"
+        href: "https://www.appstate.edu/"
+      - label: "Map"
+        href: "https://goo.gl/maps/UUzXMoJq57XameJdA"
   
+  - title: "Wahoo Adventures"
+    content: "White Water Rafting"
+    image: "images/gallery/fulls/rafting.jpg"
+    thumb: "images/gallery/thumbs/rafting.jpg"
+    buttons:
+      - label: "Visit"
+        href: "https://www.wahoosadventures.com/watauga-river-outpost/river-rafting/"
+      - label: "Map"
+        href: "https://g.page/WahoosAdventures"
+
   - title: "Downtown Boone"
     content: "Historic downtown"
     image: "images/gallery/fulls/boone.jpg"
@@ -77,12 +97,3 @@ pictures:
         href: "https://www.exploreboone.com/"
       - label: "Map"
         href: "https://goo.gl/maps/hYjs1mpoZxVqPytM8"
-
-  - title: "Appalachian State University"
-    image: "images/gallery/fulls/asu.jpg"
-    thumb: "images/gallery/thumbs/asu.jpg"
-    buttons:
-      - label: "Visit"
-        href: "https://www.appstate.edu/"
-      - label: "Map"
-        href: "https://goo.gl/maps/UUzXMoJq57XameJdA"
