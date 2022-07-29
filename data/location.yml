@@ -77,16 +77,6 @@ pictures:
         href: "https://www.appstate.edu/"
       - label: "Map"
         href: "https://goo.gl/maps/UUzXMoJq57XameJdA"
-  
-  - title: "Wahoo Adventures"
-    content: "White Water Rafting"
-    image: "images/gallery/fulls/rafting.jpg"
-    thumb: "images/gallery/thumbs/rafting.jpg"
-    buttons:
-      - label: "Visit"
-        href: "https://www.wahoosadventures.com/watauga-river-outpost/river-rafting/"
-      - label: "Map"
-        href: "https://g.page/WahoosAdventures"
 
   - title: "Downtown Boone"
     content: "Historic downtown"
