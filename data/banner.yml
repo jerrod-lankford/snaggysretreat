@@ -18,7 +18,7 @@ buttons:
     - label: "Contact"
       link: "#contact"
   secondary:
-    label : "Coming Soon!"
-    link : "#"
+    label : "Book Now!"
+    link : "https://www.vacasa.com/unit/88325"
 image : "images/banner.jpg"
 
