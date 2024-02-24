@@ -2,25 +2,26 @@
 style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
 title : "House Layout"
 id: "house"
-content: "Spacious three bedroom, two bathroom house off of the main road, accessible year round."
+content: "Spacious single level, three bedroom, two bathroom house off of a private paved road, accessible year round."
 lists:
-  - title: Basement
+  - title: Far side of the house
     items:
-      - Bedroom with Bunk Beds (Full/Queen)
-      - Washer + Dryer
-      - Garage
-  - title: Main Floor
-    items:
+      - Bedroom with Bunk Beds (Twin over Twin)
+      - Nugget for additional toddler sleeping
       - Bedroom with Queen Bed
-      - Open Kitchen
-      - One Bathroom
+      - One bathroom in hallway
+  - title: Common Area
+    items:
+      - Large TV
+      - Large Couch
+      - Fully Stocked Kitchen
       - Dining Room
       - Living Room
-  - title: Top Floor
+  - title: Back side of house
     items:
       - Master Suite with King Bed
-      - One Bathroom
-      - Desk/Chair for Work
-      - Private Balcony
+      - Master Bathroom
+      - Game room
+      - Shuffleboard / Arcade / Pinball
 
 image: "images/spotlight02.jpg"
