@@ -1,10 +1,12 @@
 ####################### Banner #########################
 style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
-title : "The Uptown Appalachian"
+title : "Snaggy's Retreat"
 subtitle: |
-  The Uptown Appalachian is a cozy 3 bedroom home just over 3 miles from downtown boone and 7.5 miles from blowing rock.
+  Snaggy's Retreat is a cozy 3 bedroom single level home just over 2 miles from downtown boone, appalachian state and 7.5 miles from blowing rock.
 content : |
-  This house is central to downtown boone, blowing rock and app ski mountain. The perfect home for your ski trip base camp, family tailgating base camp, or just a weekend getaway. Well furnished complete with hot tub and many other amenities. 
+  This house is conveniently close downtown Boone, Blowing Rock, App Ski Mountain, Valle Crucis, Grandfather Mountain and much more!
+    The perfect home for your ski trip base camp, family tailgating base camp, or just a weekend getaway. Newly renovated and well furnished complete with a game room,
+    hot tub and many other amenities. 
 buttons:
   navigation:
     - label: "Amenities"
@@ -19,6 +21,6 @@ buttons:
       link: "#contact"
   secondary:
     label : "Book Now!"
-    link : "https://www.vacasa.com/unit/88325"
-image : "images/banner.jpg"
+    link : "https://www.blueridgerentals.com/rentals/snaggys-retreat"
+image : "images/banner.webp"
 
